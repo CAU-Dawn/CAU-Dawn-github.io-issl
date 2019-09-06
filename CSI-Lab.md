@@ -1,0 +1,1 @@
+<p><strong>&#39;Center for Security Intelligence Lab&#39;</strong>의 준말</p>\n\n<p>지하 1층에 있는 산업보안학과 공간</p>\n\n<p>현재 프로그래밍2 강의를 비롯하여 몇몇 강의가 이루어지고 있으며</p>\n\n<p><s>모세의 C언어 튜터링</s>&nbsp;및 이상의 네트워크 강의 등 여러가지 활동이 이루어지고 있다.</p>\n
